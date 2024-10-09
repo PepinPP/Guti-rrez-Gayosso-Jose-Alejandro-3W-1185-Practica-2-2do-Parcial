@@ -18,4 +18,17 @@ Gutierrez Gayosso Jose Alejandro 3W 1185 Practica 2 2do Parcial
 
 4.- Calcular total de una factura luego del IVA. primero obtener la cantidad sin IVA luego el porcentaje de IVA a aplicar, 
 por ultimo devolver el total de la factura. 
+![image](https://github.com/user-attachments/assets/6a877e96-bbd6-4932-b23b-a0fd225a3903)
+![image](https://github.com/user-attachments/assets/39522c7b-ac42-415b-8c5f-10d49fdb81bb)
+
+
+5- Calcular el área de un círculo  y el volumen 
+otra que calcule el volumen de un cilindro y utilice  primera función.
+![image](https://github.com/user-attachments/assets/31d81a7b-eedf-4eb8-b324-11e4b167f413)
+![image](https://github.com/user-attachments/assets/e6afee54-7b76-47a4-abdd-f36f2a0c2927)
+
+
+6- Capturar dirección de email. Desplegar mensaje si la dirección es válida o no, siendo que una función lo revisar por tener la @ solo así es valida
+![image](https://github.com/user-attachments/assets/88ede3e3-89cf-4a78-b93c-d052f2262de8)
+![image](https://github.com/user-attachments/assets/0ac77136-af60-433e-a8ce-9b091ca82543)
 

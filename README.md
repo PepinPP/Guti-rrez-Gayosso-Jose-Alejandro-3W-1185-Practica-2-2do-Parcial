@@ -51,7 +51,15 @@ debería devolver 24.
 ![image](https://github.com/user-attachments/assets/49022765-2453-4f8e-b4e3-d9dba5d892b5)
 
 
+10- Escribir una función que tome un carácter y devuelva True si es una vocal, de lo contrario
+devuelve False.
+![image](https://github.com/user-attachments/assets/50c7a293-a518-45e6-b647-2147ae055dbd)
+![image](https://github.com/user-attachments/assets/a12255a4-a784-4c8d-83d2-13476b181089)
 
+
+11-  Que saque la distancia dirigida entre dos puntos
+![image](https://github.com/user-attachments/assets/cf7dddc7-652c-4efd-8378-86b60aee63bd)
+![image](https://github.com/user-attachments/assets/65d0b244-0182-484f-97e8-3eeec1335d56)
 
 
 
